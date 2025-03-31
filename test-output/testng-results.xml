@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-31T17:05:44 IST" name="Default suite" finished-at="2025-03-31T17:05:52 IST" duration-ms="8095">
+    <groups>
+    </groups>
+    <test started-at="2025-03-31T17:05:44 IST" name="Default test" finished-at="2025-03-31T17:05:52 IST" duration-ms="8095">
+      <class name="api.tests.QtripApiTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:44 IST" name="setup" finished-at="2025-03-31T17:05:44 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisterResponse()[pri:0, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:44 IST" name="verifyRegisterResponse" finished-at="2025-03-31T17:05:47 IST" duration-ms="3077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterResponse -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:47 IST" name="teardown" finished-at="2025-03-31T17:05:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="verifyLoginResponse()[pri:1, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:47 IST" name="verifyLoginResponse" finished-at="2025-03-31T17:05:49 IST" duration-ms="1476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginResponse -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:47 IST" name="setup" finished-at="2025-03-31T17:05:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:49 IST" name="teardown" finished-at="2025-03-31T17:05:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:49 IST" name="setup" finished-at="2025-03-31T17:05:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="veriyGetCitiesResponse()[pri:2, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:49 IST" name="veriyGetCitiesResponse" finished-at="2025-03-31T17:05:50 IST" duration-ms="1353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veriyGetCitiesResponse -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:50 IST" name="teardown" finished-at="2025-03-31T17:05:50 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:50 IST" name="setup" finished-at="2025-03-31T17:05:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="veriyGetCityResponse()[pri:3, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:50 IST" name="veriyGetCityResponse" finished-at="2025-03-31T17:05:51 IST" duration-ms="916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veriyGetCityResponse -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:51 IST" name="teardown" finished-at="2025-03-31T17:05:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="veriyGetReservationResponse()[pri:4, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:51 IST" name="veriyGetReservationResponse" finished-at="2025-03-31T17:05:52 IST" duration-ms="956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veriyGetReservationResponse -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:51 IST" name="setup" finished-at="2025-03-31T17:05:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:api.tests.QtripApiTests@443118b0]" started-at="2025-03-31T17:05:52 IST" name="teardown" finished-at="2025-03-31T17:05:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- api.tests.QtripApiTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
