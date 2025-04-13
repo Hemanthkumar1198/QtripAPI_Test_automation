@@ -14,7 +14,7 @@ public class Basetest {
 	public void setup() {
 		RestAssured.baseURI= Endpoints.baseuri;
 		RestAssured.basePath= Endpoints.basepath;
-		RestAssured.filters(new RequestLoggingFilter(), new ResponseLoggingFilter());
+		RestAssured.filters(new RequestLoggingFilter(), new ResponseLoggingFilter());//no need of using log.all
 	}
 	
 	@AfterMethod
